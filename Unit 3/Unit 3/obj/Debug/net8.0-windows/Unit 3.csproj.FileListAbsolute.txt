@@ -1,0 +1,26 @@
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Unit 3.exe
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Unit 3.deps.json
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Unit 3.runtimeconfig.json
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Unit 3.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Unit 3.pdb
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit_3.Form1.resources
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.csproj.Up2Date
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\refint\Unit 3.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.pdb
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit 3.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\ref\Unit 3.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\obj\Debug\net8.0-windows\Unit_3.LoginForm.resources
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit 3\Unit 3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
